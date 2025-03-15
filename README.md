@@ -1,9 +1,8 @@
 # InteractivePlots
-Tutorial and introductory scripts for using HoloViews (Bokeh backend) to generate interactive plots
+Introductory scripts for using HoloViews (Bokeh backend) to generate interactive plots
 
 
-## COW Tutoral/Getting Started:
-Use tutorial files in the 'COW Tutorial' Folder
+## COW Tutoral and instructions for getting started can be found in the 'InteractivePlots' repository 'COW Tutorial' folder:
 - Install Conda environment from InteractivePlots.yml file:
   
   ```conda env create —f InteractivePlots.yml```
@@ -11,7 +10,7 @@ Use tutorial files in the 'COW Tutorial' Folder
 
 *Note: Import section of python script will require 1-2 minutes to run for first use*
 
-**Please be aware that this package contains the tools required to prepare interactive figures but it may not include all necessary tools for data preparation (data splits, scaling etc.)** 
+**Please be aware that this package contains the tools required to prepare interactive figures and some modeling applications but may not include all necessary transformations or tests** 
 
 ## Supported HoloViews Functions (and Current Uses)
 [HoloViews Reference Gallery](https://holoviews.org/reference/index.html/ "HoloViews Reference Gallery")
